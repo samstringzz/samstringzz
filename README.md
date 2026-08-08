@@ -115,8 +115,8 @@ Happy to share architecture notes, screenshots, or a private demo on request.
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.shion.dev/api?username=samstringzz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=samstringzz&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="180" src="https://YOUR-APP.vercel.app/api?username=samstringzz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="180" src="https://YOUR-APP.vercel.app/api/top-langs/?username=samstringzz&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </div>
 
 <br />
@@ -140,12 +140,3 @@ Happy to share architecture notes, screenshots, or a private demo on request.
 → Building cross-platform apps with React Native + Expo
 → Strengthening backend & API integration patterns
 → Improving architecture, DX, and deployment workflows
-```
-
----
-
-<div align="center">
-  <i>“Build things people enjoy using.”</i>
-  <br /><br />
-  ⭐ From <a href="https://github.com/samstringzz">samstringzz</a>
-</div>
